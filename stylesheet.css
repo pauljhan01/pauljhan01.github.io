@@ -1,6 +1,9 @@
-body{
-	background-color: powderblue;
+html{
+	font-family: 'Times New Roman', Times, serif;
 }
-h1{
-	color: blueviolet;
+title{
+	font-size: 160%;
+}
+body{
+	font-size: larger;
 }
