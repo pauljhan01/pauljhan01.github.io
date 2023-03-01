@@ -1,12 +1,19 @@
-html{
-	display: block;
+.intro{
+	border: 10px black;
+	margin: 20px;
+	width: 700px;
+	background-color: powderblue;
+	font-family: 'Courier New', Courier, monospace;
 }
-html:focus{
-	outline:none;
+.wrapper{
+	border: 20px black;
+	background-color: salmon;
+	font-family: 'Courier New', Courier, monospace;
 }
-title{
-	font-size: 160%;
+a:hover{
+	color: gray;
 }
-body{
-	font-size: larger;
+#DiscordLink{
+	background-color: bisque;
+	font-family: 'Courier New', Courier, monospace;
 }
